@@ -3,8 +3,34 @@
     padding: auto;
     height: 1115px;
     width: 1440px;
+    background-color: #E5E5E5;
+
     
 }
 body .container{
-    height: ;
+    height: 1061px;
+    width: 900px;
+    color: solid #ffffff;
+    margin: 27px 270px;
+    
+
+
 }
+body header{
+    width: 635px;
+    height: 82px;
+    padding-left: 36px;
+    padding-top: 43px;
+    padding-right: 229px;
+    font-weight: 600;
+    text-align: left;
+    vertical-align: center;
+    line-height: 20px;
+
+}
+body header span{
+    color: #04175A;
+    font-size: 50%;
+
+}
+
