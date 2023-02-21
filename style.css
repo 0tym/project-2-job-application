@@ -33,4 +33,77 @@ body header span{
     font-size: 50%;
 
 }
+body section form label[for=fname]{
+    height: 20px;
+    width: 108.53px;
+    padding-left: 36px;
+    padding-top: 46px;
+    font-size: 18px;
+    font-style: semi bold;
+    text-align: left;
+    vertical-align: center;
+}
+body section form input[id=fname]{
+    height: 66px;
+    width: 393px;
+    margin-left: 36px;
+    padding-top: 10px;
+    font-size: 15px;
+    font-style: italic;
+    text-align: center;
+    vertical-align: center;
+
+}
+
+body section form label[for=lname]{
+    height: 20px;
+    width: 108.53px;
+    padding-left: 326.47px;
+    padding-top: 46px;
+    font-size: 18px;
+    font-style: semi bold;
+    text-align: left;
+    vertical-align: center;
+}
+body section form input[id=lname]{
+    height: 66px;
+    width: 386px;
+    padding-left: 42px;
+    padding-right: 42px;
+    padding-top: 10px;
+    font-size: 15px;
+    font-style: italic;
+    text-align: center;
+    vertical-align: center;
+
+}
+body section form label[for=email]{
+    height: 20px;
+    width: 108.53px;
+    padding-left: 36px;
+    padding-top: 46px;
+    font-size: 18px;
+    font-style: semi bold;
+    text-align: left;
+    vertical-align: center;
+}
+body section form input[id=email]{
+    height: 66px;
+    width: 393px;
+    margin-left: 36px;
+    padding-top: 10px;
+    font-size: 15px;
+    font-style: italic;
+    text-align: center;
+    vertical-align: center;
+
+}
+body section form select{
+    height: 386px;
+    width: 57px;
+    padding-top: 63px;
+    padding-left: 46px;
+
+
+}
 
