@@ -50,9 +50,13 @@ input, select, textarea{
     border: 1px solid #ccc;
     border-radius: 4px;
     font-size: 15px;
+
 }
+input{
+    outline: none;
+}
+
 input:focus {
-outline: rgb(233, 10, 10);
 outline-color: rgb(255, 55, 0);
 }
 
