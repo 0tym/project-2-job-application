@@ -1,108 +1,11 @@
 *{
-    margin: 0;
-    padding: auto;
+    margin: 0px;
+    padding: 0px;
     box-sizing: border-box;
-
-    
 }
-body .container{
-    height: 1061px;
-    width: 900px;
 
-    color: solid #ffffff;
+.container{
+    max-width: 900px;
     margin: 0 auto;
-    
-
-
-}
-body header{
-    width: 635px;
-    height: 82px;
-    padding-left: 36px;
-    padding-top: 43px;
-    padding-right: 229px;
-    font-weight: 600;
-    text-align: left;
-    vertical-align: center;
-    line-height: 20px;
-
-}
-body header span{
-    color: #04175A;
-    font-size: 50%;
-
-}
-body section form label[for=fname]{
-    height: 20px;
-    width: 108.53px;
-    padding-left: 36px;
-    padding-top: 46px;
-    font-size: 18px;
-    font-style: semi bold;
-    text-align: left;
-    vertical-align: center;
-}
-body section form input[id=fname]{
-    height: 66px;
-    width: 393px;
-    margin-left: 36px;
-    padding-top: 10px;
-    font-size: 15px;
-    font-style: italic;
-    text-align: center;
-    vertical-align: center;
-
-}
-
-body section form label[for=lname]{
-    height: 20px;
-    width: 108.53px;
-    padding-left: 326.47px;
-    padding-top: 46px;
-    font-size: 18px;
-    font-style: semi bold;
-    text-align: left;
-    vertical-align: center;
-}
-body section form input[id=lname]{
-    height: 66px;
-    width: 386px;
-    padding-left: 42px;
-    padding-right: 42px;
-    padding-top: 10px;
-    font-size: 15px;
-    font-style: italic;
-    text-align: center;
-    vertical-align: center;
-
-}
-body section form label[for=email]{
-    height: 20px;
-    width: 108.53px;
-    padding-left: 36px;
-    padding-top: 46px;
-    font-size: 18px;
-    font-style: semi bold;
-    text-align: left;
-    vertical-align: center;
-}
-body section form input[id=email]{
-    height: 66px;
-    width: 393px;
-    margin-left: 36px;
-    padding-top: 10px;
-    font-size: 15px;
-    font-style: italic;
-    text-align: center;
-    vertical-align: center;
-
-}
-body section form select{
-    height: 386px;
-    width: 57px;
-    padding-top: 63px;
-    padding-left: 46px;
-
-
 }
 
