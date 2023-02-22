@@ -1,9 +1,7 @@
 *{
     margin: 0;
     padding: auto;
-    height: 1115px;
-    width: 1440px;
-    background-color: #E5E5E5;
+    box-sizing: border-box;
 
     
 }
