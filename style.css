@@ -42,4 +42,15 @@ body{
 }
 label{
     font-size: 15px;
+    margin-bottom: 5px;
+}
+
+input, select, textarea{
+    padding: 6px 10px ;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 15px;
+}
+input:focus {
+outline-color: rgb(255, 55, 0);
 }
