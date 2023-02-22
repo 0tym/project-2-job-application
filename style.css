@@ -52,5 +52,39 @@ input, select, textarea{
     font-size: 15px;
 }
 input:focus {
+outline: rgb(233, 10, 10);
 outline-color: rgb(255, 55, 0);
+}
+
+.button_container{
+    display: flex;
+    justify-content: end;
+    margin-top: 20px; 
+}
+button{
+    background-color: red;
+    border: transparent solid 2px;
+    padding: 5px 10px;
+    color: white;
+    border-radius: 8px;
+    transition: .3s ease-in;
+}
+button:hover{
+    background-color: #ccc;
+    color: red;
+    border: 2px solid black;
+    transition: .3s ease-out;
+    cursor: pointer;
+}
+.textarea_control{
+    grid-column: 1/span 2;
+}
+.textarea_control textarea{
+    width: 100%;
+}
+
+@media (max-width:460px) {
+    .textarea_control{
+        grid-column: 1/span 1;
+    
 }
